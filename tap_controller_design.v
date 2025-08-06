@@ -1,4 +1,4 @@
-module jtag_tap (
+module tap_controller_design (
   input  wire tck,       // Test Clock
   input  wire tms,       // Test Mode Select
   input  wire trst_n,    // Active-low reset
